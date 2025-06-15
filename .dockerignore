@@ -1,0 +1,27 @@
+# Ignore common development-related files and directories
+.git
+.gitignore
+.venv/
+virtualenv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore editor/IDE specific files
+.vscode/
+.idea/
+*.swp
+*.bak
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore .env file as sensitive information should be passed via Docker secrets or environment variables
+.env
+
+# Ignore instructions.md as requested by the user
+instructions.md 
+# Ignore LangGraph API related files
+.langgraph_api/

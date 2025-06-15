@@ -1,0 +1,10 @@
+{
+    "python_version": "3.12",
+    "dependencies": [
+      "."
+    ],
+    "graphs": {
+      "main": "./my_agent/agent.py:graph"
+    },
+    "env": "./.env"
+  }

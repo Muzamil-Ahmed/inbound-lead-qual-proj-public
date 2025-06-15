@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+
+# Virtual environment
+virtualenv/
+virt/
+env/
+venv/
+.venv/
+
+# Env file
+.env
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+
+.langgraph_api/
+
+
+# Logs
+*.log
+
+# Build artifacts
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# MyPy
+.mypy_cache/
+
+# pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Vapi recordings
+recordings/ 
