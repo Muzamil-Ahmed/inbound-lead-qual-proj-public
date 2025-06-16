@@ -12,7 +12,7 @@ async def vapi_call_node(state: AgentState):
     load_dotenv()
     VAPI_API_KEY = os.getenv("VAPI_PRIV_API_KEY")
     VAPI_ASSISTANT_ID = os.getenv("VAPI_ASSISTANT_ID")
-    TWILIO_PHONE_NUMBER_ID = os.getenv("TWILIO_PHONE_NUMBER_ID_MUZAMMIL_FROM_VAPI") 
+    TWILIO_PHONE_NUMBER_ID = os.getenv("TWILIO_PHONE_NUMBER_ID_FROM_VAPI") 
 
     # Early exit if essential Vapi credentials are missing
     if not VAPI_API_KEY or not VAPI_ASSISTANT_ID or not TWILIO_PHONE_NUMBER_ID:
