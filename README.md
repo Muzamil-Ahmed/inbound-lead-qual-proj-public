@@ -1,6 +1,12 @@
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muzammil-kma/)
+
 #### **What is this Project?**
 LeadSense, is a production ready project that helps you know all you need to know to close your leads more. Essentially it calls your leads to engage, nurture and qualify them. 
-It brings various benefits depending on your needs. It can help you either close easier on first call, engage the lead so they dont ghost you, give a great first impression etc..
+It brings various benefits depending on your needs. It can help you either close easier on first call, engage the lead so they dont ghost you, give a great first impression etc. #BuildWithVapi
+
+**Watch The Demo:** https://www.linkedin.com/feed/update/urn:li:activity:7339917729220440064/
+**My LinkedIn:** https://www.linkedin.com/in/muzammil-kma/
+
 
 ---
 
