@@ -2,6 +2,7 @@
 LeadSense, is a production ready project that helps you know all you need to know to close your leads more. Essentially it calls your leads to engage, nurture and qualify them. 
 It brings various benefits depending on your needs. It can help you either close easier on first call, engage the lead so they dont ghost you, give a great first impression etc..
 
+---
 
 #### **How it works?**
 ![langgraph dia](https://github.com/user-attachments/assets/55a8593a-5af5-43ed-a219-cc32206deb5f)
@@ -17,7 +18,7 @@ This project is composed of 5 core modules (located in the `my_agent/modules` fo
 
 These core modules help create a scalable and easily manageable project
 
----
+
 #### **Project Flow**
 
 1. **Trigger Module**  
@@ -39,7 +40,7 @@ These core modules help create a scalable and easily manageable project
 5. **CRM Module**  
     The entire interaction—including research, call outcome, and lead status—is logged into a **Google Sheets-based CRM**.    
 
----
+
 ###### **Technical Breakdown**
 
 - **Vapi** – Used to create and manage real-time AI voice calls.
@@ -55,8 +56,9 @@ These core modules help create a scalable and easily manageable project
 - Scales well for multiple lead sources
 
 
+---
 
-### **How to setup and run locally:**
+## **How to setup and run locally:**
 
 Prerequisites:
 You should be familiar with tech like Langgraph, Vapi, FastAPI and general things like git, docker etc...
