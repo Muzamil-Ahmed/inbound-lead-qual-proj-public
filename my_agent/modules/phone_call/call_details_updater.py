@@ -20,8 +20,8 @@ def update_call_details_insufficient_info_node(state: AgentState) -> dict:
     
     if email:
         send_email_general(
-            recipient_name=first_name,
-            recipient_email=email
+            name=first_name,
+            email=email
         )
 
     return {'call_details': call_details} 
